@@ -1,0 +1,24 @@
+
+body{
+    background-color: #5cdb95;
+}
+.company_name_div{
+    height: 5rem;
+}
+.vendor{
+    display: flex;
+}
+
+.vendor_split{
+    flex: 0.7;
+    display: flex;
+    background-color: #edf5e1;
+}
+.vendor_details{
+    background-color: white;
+    flex: 0.5;
+}
+.vendor_services{
+    flex: 0.5;
+}
+
